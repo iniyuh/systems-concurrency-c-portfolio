@@ -16,7 +16,7 @@ Each assignment demonstrates one or more of these core systems programming conce
 | Folder | Title                       | Topics Covered                              |
 |--------|-----------------------------|---------------------------------------------|
 | a1     | The Flash                   | Basic C, command-line parsing               |
-| a2     | [Coming Soon]               | [Not yet summarized]                        |
+| 02-file-io-and-pipes         | Rogue One Socket Client                  | Socket programming in C, TCP/IP networking, `getaddrinfo`, and client-server communication |
 | a3     | N-Queens Problem            | POSIX threads, concurrency                  |
 | a4     | Hogwarts Task Scheduler     | Threads, semaphores, mutexes                |
 | a5     | The Time War                | Memory debugging, race conditions, Valgrind |
